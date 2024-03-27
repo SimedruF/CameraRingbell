@@ -17,8 +17,8 @@
 Audio audio;
 WiFiMulti wifiMulti;
 
-String ssid =     "AC0571";
-String password = "120479wifi";
+String ssid =     "ssid";
+String password = "password";
 
 void setup() {
     pinMode(SD_CS, OUTPUT);      digitalWrite(SD_CS, HIGH);
